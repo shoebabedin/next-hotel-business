@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 import Banner from "/pages/Common/Banner/Banner";
 import Destination from "/pages/Common/Destination/Destination";
 import Subscription from "/pages/Common/Subscription/Subscription";
-import Additional from "/pages/home/Additional";
-import Clients from "/pages/home/Clients";
-import Facilities from "/pages/home/Facilities";
-import PhotoGellary from "/pages/home/PhotoGellary";
+import Additional from "/pages/Home/Additional";
+import Clients from "/pages/Home/Clients";
+import Facilities from "/pages/Home/Facilities";
+import PhotoGellary from "/pages/Home/PhotoGellary";
 
 
 export default function Home() {

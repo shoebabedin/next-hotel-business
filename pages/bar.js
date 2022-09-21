@@ -3,7 +3,7 @@ import { Door, ForkKnife, TestTube, UsersThree } from "phosphor-react";
 import React, { useEffect, useState } from "react";
 import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
 import Subscription from "/pages/Common/Subscription/Subscription";
-import Clients from "/pages/home/Clients";
+import Clients from "/pages/Home/Clients";
 
 const Bar = () => {
   const [data1, setData1] = useState({});

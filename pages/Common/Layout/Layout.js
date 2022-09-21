@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
-import Footer from "../Footer/Footer";
-import NavBar from "../Navbar/NavBar";
-import TopNav from "../Navbar/TopNav";
-import Preloader from "../Preloader/Preloader";
-import ToTop from "../ToTop/ToTop";
+import Footer from "/pages/Common/Footer/Footer";
+import ToTop from "/pages/Common/Layout/Layout";
+import NavBar from "/pages/Common/Navbar/NavBar";
+import TopNav from "/pages/Common/Navbar/TopNav";
+import Preloader from "/pages/Common/Preloader/Preloader";
 
 const Layout = ({  children }) => {
   const [loading, setLoading] = useState(true);

@@ -11,7 +11,7 @@ import React, { useEffect, useState } from "react";
 // import "react-tabs/style/react-tabs.css";
 import Destination from "/pages/Common/Destination/Destination";
 import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
-import Clients from "/pages/home/Clients";
+import Clients from "/pages/Home/Clients";
 
 // console.log(foodTabs);
 

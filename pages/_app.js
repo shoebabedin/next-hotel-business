@@ -9,7 +9,7 @@ import "../styles/Home.module.css";
 import "../styles/icon.css";
 import "../styles/MultiRangeSlider.module..css";
 import "../styles/Totop.module.js";
-import Layout from "./Common/Layout/Layout";
+import Layout from "/pages/Common/Layout/Layout";
 
 function MyApp({ Component, pageProps }) {
   

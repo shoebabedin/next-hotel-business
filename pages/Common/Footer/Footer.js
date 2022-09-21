@@ -2,9 +2,6 @@ import Image from "next/image";
 
 
 
-
-
-
 const payment = [
     {
         img: '/assets/images/footer/visa.webp',
