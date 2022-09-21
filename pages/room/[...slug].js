@@ -3,9 +3,9 @@ import { Door, PhoneCall, UsersThree, WifiHigh } from "phosphor-react";
 import React, { useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import Destination from "/pages/Common/Destination/Destination";
-import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
-import Subscription from "/pages/Common/Subscription/Subscription";
+import Destination from "/components/Common/Destination/Destination";
+import DetailsPageSlider from "/components/Common/DetailsPageSlider/DetailsPageSlider";
+import Subscription from "/components/Common/Subscription/Subscription";
 
 const RoomDetails = (props) => {
   const [startDate, setStartDate] = useState(new Date());

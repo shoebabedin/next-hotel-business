@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Banner from "/pages/Common/Banner/Banner";
-import Destination from "/pages/Common/Destination/Destination";
-import MultiRangeSlider from "/pages/Common/MultiRangeSlider/MultiRangeSlider";
+import Banner from "/components/Common/Banner/Banner";
+import Destination from "/components/Common/Destination/Destination";
+import MultiRangeSlider from "/components/Common/MultiRangeSlider/MultiRangeSlider";
 
 
 const Room = () => {

@@ -1,6 +1,6 @@
 import React from "react";
-import Banner from "/pages/Common/Banner/Banner";
-import MainPage from "/pages/Common/Pagination/MainPage";
+import Banner from "/components/Common/Banner/Banner";
+import MainPage from "/components/Common/Pagination/MainPage";
 
 
 const Events = () => {

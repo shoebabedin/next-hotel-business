@@ -1,16 +1,16 @@
 import { useEffect, useState } from "react";
-import Banner from "/pages/Common/Banner/Banner";
-import Destination from "/pages/Common/Destination/Destination";
-import Subscription from "/pages/Common/Subscription/Subscription";
-import Additional from "/pages/Home/Additional";
-import Clients from "/pages/Home/Clients";
-import Facilities from "/pages/Home/Facilities";
-import PhotoGellary from "/pages/Home/PhotoGellary";
+import Banner from "/components/Common/Banner/Banner";
+import Destination from "/components/Common/Destination/Destination";
+import Additional from "/components/Common/home/Additional";
+import Clients from "/components/Common/Home/Clients";
+import Facilities from "/components/Common/Home/Facilities";
+import PhotoGellary from "/components/Common/Home/PhotoGellary";
+import Subscription from "/components/Common/Subscription/Subscription";
 
 
 export default function Home() {
   const [person, setPerson] = useState(0);
-  const [data, setData] = useState({});
+  const [data, setData] = useState([]);
 
 useEffect(() => {
   fetch('/json/DestinationData.json')
