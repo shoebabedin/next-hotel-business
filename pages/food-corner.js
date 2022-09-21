@@ -9,9 +9,9 @@ import {
 } from "phosphor-react";
 import React, { useEffect, useState } from "react";
 // import "react-tabs/style/react-tabs.css";
-import Destination from "./Common/Destination/Destination";
-import DetailsPageSlider from "./Common/DetailsPageSlider/DetailsPageSlider";
-import Clients from "./Home/Clients";
+import Destination from "/pages/Common/Destination/Destination";
+import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
+import Clients from "/pages/home/Clients";
 
 // console.log(foodTabs);
 

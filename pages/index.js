@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-import Banner from "./Common/Banner/Banner";
-import Destination from "./Common/Destination/Destination";
-import Subscription from "./Common/Subscription/Subscription";
-import Additional from "./Home/Additional";
-import Clients from "./Home/Clients";
-import Facilities from "./Home/Facilities";
-import PhotoGellary from "./Home/PhotoGellary";
+import Banner from "/pages/Common/Banner/Banner";
+import Destination from "/pages/Common/Destination/Destination";
+import Subscription from "/pages/Common/Subscription/Subscription";
+import Additional from "/pages/Home/Additional";
+import Clients from "/pages/Home/Clients";
+import Facilities from "/pages/Home/Facilities";
+import PhotoGellary from "/pages/home/PhotoGellary";
 
 
 

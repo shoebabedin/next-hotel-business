@@ -6,8 +6,8 @@ import {
   UsersThree
 } from "phosphor-react";
 import React, { useEffect, useState } from "react";
-import DetailsPageSlider from "./Common/DetailsPageSlider/DetailsPageSlider";
-import Clients from "./Home/Clients";
+import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
+import Clients from "/pages/home/Clients";
 
 const Fitness = () => {
   const [data1, setData1] = useState({});
