@@ -3,9 +3,9 @@ import {
   ForkKnife, HandSoap, Shower, WifiHigh
 } from "phosphor-react";
 import React, { useEffect, useState } from "react";
-import DetailsPageSlider from "./Common/DetailsPageSlider/DetailsPageSlider";
-import Subscription from "./Common/Subscription/Subscription";
-import Clients from "./Home/Clients";
+import DetailsPageSlider from "/pages/Common/DetailsPageSlider/DetailsPageSlider";
+import Subscription from "/pages/Common/Subscription/Subscription";
+import Clients from "/pages/home/Clients";
 
 const Pool = () => {
   const [data1, setData1] = useState({});
