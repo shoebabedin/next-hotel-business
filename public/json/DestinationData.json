@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/images/destinitaion/slider-1.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$220.0/Night",
+    "slug": "family-suit"
+  },
+  {
+    "id": 2,
+    "img": "/assets/images/destinitaion/slider-2.webp",
+    "title": "Queen’s Room",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$320.0/Night",
+    "slug": "queen's-room"
+  },
+  {
+    "id": 3,
+    "img": "/assets/images/destinitaion/slider-3.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$420.0/Night",
+    "slug": "family-suit"
+  },
+  {
+    "id": 4,
+    "img": "/assets/images/destinitaion/slider-1.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$520.0/Night",
+    "slug": "family-suit"
+  },
+  {
+    "id": 5,
+    "img": "/assets/images/destinitaion/slider-2.webp",
+    "title": "Queen’s Room",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$620.0/Night",
+    "slug": "queen's-room"
+  },
+  {
+    "id": 6,
+    "img": "/assets/images/destinitaion/slider-3.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$720.0/Night",
+    "slug": "family-suit"
+  },
+  {
+    "id": 7,
+    "img": "/assets/images/destinitaion/slider-1.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$820.0/Night",
+    "slug": "family-suit"
+  },
+  {
+    "id": 8,
+    "img": "/assets/images/destinitaion/slider-2.webp",
+    "title": "Queen’s Room",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$920.0/Night",
+    "slug": "queen's-room"
+  },
+  {
+    "id": 9,
+    "img": "/assets/images/destinitaion/slider-3.webp",
+    "title": "Family Suit",
+    "bed": "2 Beds",
+    "feet": "150 Sq.feet",
+    "desc": "We'll get from air terminal while you comfortable on your ride, We'll get from air terminal while you comfortable on your ride.....",
+    "price": "$1020.0/Night",
+    "slug": "family-suit"
+  }
+]

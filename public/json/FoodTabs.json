@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "tab": "STARTERS",
+    "item": [
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "10"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "10"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "10"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "10"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "10"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "tab": "MAIN COURSE",
+    "item": [
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "20"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tab": "SOUPS",
+    "item": [
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "30"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "30"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "30"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "30"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tab": "DESSERTS",
+    "item": [
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "40"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "40"
+      },
+      {
+        "img": "/assets/images/hotel_food/food-item.webp",
+        "title": "Terrific Turkey Chili",
+        "desc": "Turkey, Oregano, Tomato Paste, Peppers",
+        "price": "40"
+      }
+    ]
+  }
+]
