@@ -1,11 +1,18 @@
 import { useEffect, useState } from "react";
-import Banner from "/components/Common/Banner/Banner";
-import Destination from "/components/Common/Destination/Destination";
-import Additional from "/components/Common/home/Additional";
-import Clients from "/components/Common/Home/Clients";
-import Facilities from "/components/Common/Home/Facilities";
-import PhotoGellary from "/components/Common/Home/PhotoGellary";
-import Subscription from "/components/Common/Subscription/Subscription";
+import Banner from "../components/Common/Banner/Banner";
+import Destination from "../components/Common/Destination/Destination";
+import Additional from "../components/Common/home/Additional";
+import Clients from "../components/Common/home/Clients";
+import Facilities from "../components/Common/home/Facilities";
+import PhotoGellary from "../components/Common/home/PhotoGellary";
+import Subscription from "../components/Common/Subscription/Subscription";
+// import Banner from "/components/Common/Banner/Banner";
+// import Destination from "/components/Common/Destination/Destination";
+// import Additional from "/components/Common/home/Additional";
+// import Clients from "/components/Common/Home/Clients";
+// import Facilities from "/components/Common/Home/Facilities";
+// import PhotoGellary from "/components/Common/Home/PhotoGellary";
+// import Subscription from "/components/Common/Subscription/Subscription";
 
 
 export default function Home() {
