@@ -8,8 +8,6 @@ import Facilities from "/pages/home/Facilities";
 import PhotoGellary from "/pages/home/PhotoGellary";
 
 
-
-
 export default function Home() {
   const [person, setPerson] = useState(0);
   const [data, setData] = useState({});
@@ -21,7 +19,6 @@ useEffect(() => {
 
 }, [])
 
-  
   // increment & decrement
   const decrement = () => {
     if (person > 0) {
