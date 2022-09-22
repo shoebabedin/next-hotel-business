@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -33,9 +34,9 @@ const FoodCorner = () => {
   }, [])
   return (
     <>
-      {/* <Helmet>
+      <Head>
           <title>Service-Food Corner</title>
-        </Helmet> */}
+        </Head>
       <div className="details_banner">
         <section className="hotel_banner mt-6">
           <div className="container mx-auto px-2 pb-2">

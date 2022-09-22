@@ -1,8 +1,12 @@
+import Head from "next/head";
 import Image from "next/image";
 
 const Contact = () => {
   return (
     <div className="delux_part py-[50px]">
+      <Head>
+          <title>Contact us</title>
+        </Head>
       <div className="container mx-auto px-2">
         <div className="grid grid-cols-12 gap-4">
           <div className="col-span-12">

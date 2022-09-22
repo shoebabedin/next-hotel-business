@@ -1,3 +1,4 @@
+import Head from "next/head";
 import React from "react";
 import Banner from "/components/Common/Banner/Banner";
 import MainPage from "/components/Common/Pagination/MainPage";
@@ -8,6 +9,9 @@ const Events = () => {
 
   return (
     <>
+    <Head>
+          <title>Events</title>
+        </Head>
       <Banner
         bg={"/assets/images/events/event_banner.webp"}
         title="Hotel Grand Prince"

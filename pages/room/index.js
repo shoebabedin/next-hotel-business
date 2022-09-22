@@ -1,3 +1,4 @@
+import Head from "next/head";
 import React, { useEffect, useState } from "react";
 import Banner from "/components/Common/Banner/Banner";
 import Destination from "/components/Common/Destination/Destination";
@@ -17,6 +18,10 @@ const Room = () => {
 
   return (
     <>
+     <Head>
+     <title>Rooms</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
       <Banner bg={"/assets/images/hotel_location/banner.webp"} img={"/assets/images/banner/bannerLogo.webp"} title={"Hotel Grand Prince"}>
         <div className="m-auto w-full mb-2 lg:mb-0 lg:mx-2 relative">
           <label

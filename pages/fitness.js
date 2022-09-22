@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import {
   Door,
@@ -18,6 +19,10 @@ const Fitness = () => {
       .then((data1) => setData1(data1));
   }, []);
   return (
+    <>
+    <Head>
+          <title>Service-Fitness Center</title>
+        </Head>
     <div className="details_banner">
       <section className="hotel_banner mt-6">
         <div className="container mx-auto px-2 pb-2">
@@ -255,6 +260,7 @@ const Fitness = () => {
       </section>
       <Clients />
     </div>
+    </>
   );
 };
 

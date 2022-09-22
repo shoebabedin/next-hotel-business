@@ -1,3 +1,4 @@
+import Head from "next/head";
 import { useRouter } from "next/router";
 import { Door, PhoneCall, UsersThree, WifiHigh } from "phosphor-react";
 import React, { useEffect, useState } from "react";
@@ -27,6 +28,9 @@ const RoomDetails = (props) => {
 
   return (
     <div className="details_banner">
+       <Head>
+        <title>Room Details</title>
+      </Head>
       <section className="hotel_banner mt-6">
         <div className="container mx-auto px-2 pb-2">
           <DetailsPageSlider slider={data} />

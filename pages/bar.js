@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import { Door, ForkKnife, TestTube, UsersThree } from "phosphor-react";
 import React, { useEffect, useState } from "react";
@@ -14,6 +15,10 @@ const Bar = () => {
       .then((data1) => setData1(data1));
   }, []);
   return (
+    <>
+    <Head>
+          <title>Service-Lounge bar</title>
+        </Head>
     <div className="details_banner">
       <section className="hotel_banner mt-6">
         <div className="container mx-auto px-2 pb-2">
@@ -252,6 +257,7 @@ const Bar = () => {
       <Clients />
       <Subscription />
     </div>
+    </>
   );
 };
 

@@ -1,3 +1,4 @@
+import Head from "next/head";
 import { useEffect, useState } from "react";
 import Banner from "../components/Common/Banner/Banner";
 import Destination from "../components/Common/Destination/Destination";
@@ -38,6 +39,9 @@ useEffect(() => {
 
   return (
     <>
+      <Head>
+          <title>Home</title>
+        </Head>
       <Banner
         bg="/assets/images/banner/banner.webp"
         img="/assets/images/banner/bannerLogo.webp"
