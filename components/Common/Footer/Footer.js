@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { At, MapPin, Phone } from "phosphor-react";
 
 
 
@@ -21,7 +22,7 @@ const Footer = () => {
   const d1 = new Date().getFullYear();
 
 
-  
+
   return (
     <footer className="footer py-10 text-[#0F0E0E] bg-[#0F0E0E]">
       <div className="container mx-auto px-2 grid grid-cols-12 gap-6">
@@ -68,7 +69,8 @@ const Footer = () => {
           <h3 className="font-semibold text-base text-[#BE9E57] mb-4 lg:mb-8">
             ADDRESS
           </h3>
-          <p className="font-medium text-sm text-white capitalize">
+          <p className="font-medium text-sm text-white capitalize flex items-start gap-2">
+          <MapPin size={24} color="#fff" weight="light" />
             706 Campfire Ave. Meriden, <br className="hidden lg:block" />
             CT 06450
           </p>
@@ -81,16 +83,18 @@ const Footer = () => {
             <li>
               <a
                 href="tel:0880099887744"
-                className="font-medium text-sm text-white capitalize"
+                className="font-medium text-sm text-white capitalize flex items-start gap-2"
               >
+                <Phone size={24} color="#fff" weight="light" />
                 (+088) 0099887744
               </a>
             </li>
             <li>
               <a
                 href="mailto:support@example.com"
-                className="font-medium text-sm text-white capitalize"
+                className="font-medium text-sm text-white capitalize flex items-start gap-2"
               >
+                <At size={24} color="#fff" weight="light" />
                 support@example.com
               </a>
             </li>
