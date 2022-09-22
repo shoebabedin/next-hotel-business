@@ -18,6 +18,10 @@ const payment = [
 ]
 
 const Footer = () => {
+  const d1 = new Date().getFullYear();
+
+
+  
   return (
     <footer className="footer py-10 text-[#0F0E0E] bg-[#0F0E0E]">
       <div className="container mx-auto px-2 grid grid-cols-12 gap-6">
@@ -152,7 +156,7 @@ const Footer = () => {
       <div className="container mx-auto px-2 mt60 px-2">
         <div className="tiny_footer flex items-center justify-between mt-12 flex-wrap border-t-[1px] border-solid border-[#FFFFFF33] pt-7 gap-6 flex-col md:flex-row">
           <p className="text-white font-normal text-sm text-[#9A9EA6]">
-            &copy; 2000-2021, All Rights Reserved
+            &copy; 2000-{d1}, All Rights Reserved
           </p>
           <ul className="flex items-center gap-6 flex-wrap justify-center mb-4 md:mb-0">
             {
